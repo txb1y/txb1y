@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm BHARATHI B</h1>
+<h1 align="center">Hi 👋, I'm BHARATHI</h1>
 <h3 align="center">Software Developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=txb1y" alt="txb1y" /></a> </p>
